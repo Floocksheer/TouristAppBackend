@@ -16,6 +16,7 @@ import java.time.LocalDateTime;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+//deneme
 public class User {
     
     @Id
